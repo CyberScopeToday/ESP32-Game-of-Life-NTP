@@ -1,5 +1,7 @@
 # ESP32 OLED Screensavers
 
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/slideshow-oled1306/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/slideshow-oled1306)
+
 This project showcases multiple screensavers on an OLED SSD1306 display using an Arduino Nano 3.0. The screensavers include a bouncing DVD logo, Matrix rain effect, digital clock, rotating square, scrolling text, image slideshow, and falling stars.
 
 ## Table of Contents
