@@ -1,3 +1,6 @@
+> **Language:**  
+> [English (current)](./README.md) | [Русский (Russian)](./README_ru.md)
+
 # ESP32 Conway's Game of Life + NTP Time Display
 
 ## 🌍 Project Overview
