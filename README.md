@@ -32,7 +32,6 @@ This project runs Conway's Game of Life on an **SSD1306 OLED display** controlle
 | GND | GND |
 
 **Diagram:**
-![Wiring Diagram](docs/wiring.png)
 
 ## 🖥 Arduino IDE Setup
 1. **Install ESP32 Board Support**
