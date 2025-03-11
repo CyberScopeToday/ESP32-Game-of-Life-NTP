@@ -3,6 +3,8 @@
 ## 🌍 Project Overview
 This project runs Conway's Game of Life on an **SSD1306 OLED display** controlled by an **ESP32**. The ESP32 connects to **WiFi**, fetches the time via **NTP**, and periodically displays it on the screen. The simulation restarts every 30 seconds, and the time appears for 5 seconds every 2 minutes.
 
+<img src="https://github.com/user-attachments/assets/a6fccf93-5a94-4a7b-a547-52c4dbf95fea" width="200">
+
 ## 📄 Available Languages
 - 🇬🇧 [English README](README.md)
 - 🇷🇺 [Russian README](README_ru.md)
