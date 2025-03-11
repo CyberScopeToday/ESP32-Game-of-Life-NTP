@@ -8,10 +8,6 @@ This project runs Conway's Game of Life on an **SSD1306 OLED display** controlle
 
 <img src="https://github.com/user-attachments/assets/a6fccf93-5a94-4a7b-a547-52c4dbf95fea" width="200">
 
-## 📄 Available Languages
-- 🇬🇧 [English README](README.md)
-- 🇷🇺 [Russian README](README_ru.md)
-
 ---
 
 ## ✨ Key Features
